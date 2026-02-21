@@ -1,4 +1,4 @@
-# 🛡️ spartan
+# 🛡️ Spartan
 
 An advanced OSINT Discord bot designed for intelligence gathering across multiple queries such as emails, usernames, IPs, domains, and legal records.
 
