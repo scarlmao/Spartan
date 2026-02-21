@@ -1,0 +1,11 @@
+{
+    "token": "Token-here",
+    "prefix": "!",
+    "host_io": "host-api-here",
+    "picarta_api": "picarta-api-here",
+    "whoisxml_api": "whois-api-here",
+    "courtlistener_api": "courtlistener-api-here",
+    "virustotal_api": "virustotal-api-here",
+    "osintdog_api": "osd_demo_key",
+    "owner": your-user-id-here
+}
